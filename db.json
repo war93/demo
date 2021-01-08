@@ -1,14 +1,68 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"users":[
+		{
+		"id":"1",
+		"firstName":"Farhan",
+		"lastName":"Rahman",
+		"age": 21,
+		"country":"Wales",
+		"email":"farhan1@hotmail.com"
+		},
+		{
+		"id": "2",
+		"firstName": "John",
+		"lastName": "Doe",
+		"age": 32,
+		"country":"Scotland",
+		"email": "doejohn@gmail.com"		
+		},
+		{
+		"id": "3",
+		"firstName": "Matt",
+		"lastName": "Travis",
+		"age": 26,
+		"country":"England",
+		"email": "mtravis@yahoo.co.uk"		
+		},
+		{
+		"id": "4",
+		"firstName": "Harry",
+		"lastName": "Patrick",
+		"age": 24,
+		"country":"Northern Ireland",
+		"email": "harryPatrick@gmail.com"
+		},
+		{
+		"id": "5",
+		"firstName": "Connor",
+		"lastName": "Mcdonalds",
+		"age": 29,
+		"country":"Northern Ireland",
+		"email": "connormc@gmail.com"	
+		},
+		{
+		"id": "6",
+		"firstName": "Kim",
+		"lastName": "Jones",
+		"age": 43,
+		"country":"Wales",
+		"email": "kjones@hotmail.co.uk"		
+		},
+		{
+		"id": "7",
+		"firstName": "Zach",
+		"lastName": "Martin",
+		"age": 25,
+		"country":"Scotland",
+		"email": "zachmart25@hotmail.com"		
+		},
+		{
+		"id":"8",
+		"firstName":"Shamus",
+		"lastName":"Dean",
+		"age": 29,
+		"country":"Scotland",
+		"email":"shamdean@hotmail.com"
+		}
+	]
 }
